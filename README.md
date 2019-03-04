@@ -2,7 +2,7 @@ cl# NLP
 
 ##NATURAL LANGUAGE QUESTION ANSWERING SYSTEM
 
-![Alt text](http://asset/logo.jpg "Optional title")
+![Alt text](https://github.com/marutibandgar/nlp.git/asset/logo.jpg "Optional title")
 **1.Introduction:-**
 It becomes easier for the user to use the system which uses the natural language for querying. For that purpose the system allows user to ask questions as per their convenient.
 
