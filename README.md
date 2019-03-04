@@ -2,7 +2,7 @@ cl# NLP
 
 ##NATURAL LANGUAGE QUESTION ANSWERING SYSTEM
 
-
+![Alt text](http://asset/logo.jpg "Optional title")
 **1.Introduction:-**
 It becomes easier for the user to use the system which uses the natural language for querying. For that purpose the system allows user to ask questions as per their convenient.
 
@@ -76,31 +76,34 @@ _Hardware Requirements:_
 
 * steps-1
 
+![Alt text](http://asset/projrun.png "Optional title")
+
 
 * step-2 click login
 
+![Alt text](http://asset/run.png "Optional title")
 
 * step-3 registration-
 	
 * user-
-
+![Alt text](http://asset/userreg.png "Optional title")
 	
 * technical person-
-		
+
+![Alt text](http://asset/techreg.png "Optional title")
 
 * step-4 Sign in registered mail and passwd
+
+![Alt text](http://asset/sign.png "Optional title")
 
 
 * Step-5 Search Your Question Here
 
+![Alt text](http://asset/qsearch.png "Optional title")
 
 *Step 4- Display Available Answer's Related to that Question
 
+![Alt text](http://asset/display.png "Optional title")
 
-					
-
-
-
-
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
